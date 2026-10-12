@@ -21092,7 +21092,7 @@
 		"flint": {
 			"name": "generatedEmptyObjectTypes",
 			"plugin": "ts",
-			"preset": "logical"
+			"preset": "logicalStrict"
 		},
 		"eslint": [
 			{
